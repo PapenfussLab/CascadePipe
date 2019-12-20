@@ -6,7 +6,7 @@
 
 Code for Steps 1) and 2) provides execution steps for variant callers and folder structure generation for the output. These are included as a reference only for the variant calling done in Vergara et al, "Evolution of late-stage metastatic melanoma is dominated by tetraploidization and aneuploidy".   
 
-Code for Step 3) includes post-processing steps, given the variant calling done in 1). Examples on how to execute each command is provided. 
+Code for Step 3) includes post-processing steps, given the variant calling done in 1). Examples on how to execute each command are provided. 
 
 1) Variant Calling
 ------------------
