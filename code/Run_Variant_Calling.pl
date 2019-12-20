@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# Created by Jason Ellul, April 2013
+#Created by Jason Ellul, April 2013
 
 
 use strict;
